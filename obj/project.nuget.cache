@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EpbAHjJYsKtSqTfX8KsyhZ34KLxQLNXdjcqIxjBOSCzxGrVQ4W3nR7ZCNZOuUOre65TtDPK4sH3dE0/cHrp+dw==",
+  "success": true,
+  "projectFilePath": "/home/rapassos/Dev/Salesforce Trailhead/Lógica de Programação/CSharp/CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/rapassos/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
