@@ -12,3 +12,4 @@
 /home/rapassos/Dev/Salesforce Trailhead/Lógica de Programação/CSharp/obj/Debug/net8.0/CSharp.pdb
 /home/rapassos/Dev/Salesforce Trailhead/Lógica de Programação/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
 /home/rapassos/Dev/Salesforce Trailhead/Lógica de Programação/CSharp/obj/Debug/net8.0/ref/CSharp.dll
+/home/rapassos/Dev/Salesforce Trailhead/Lógica de Programação/CSharp/obj/Debug/net8.0/CSharp.sourcelink.json
