@@ -1,6 +1,6 @@
 ﻿namespace CSharp;
 
-// Definição da Classe
+// Exemplo de Declaração de uma Classe
 public class Pessoa{
     public string Nome { get; set; }
     public int Idade  { get; set; }
@@ -16,7 +16,7 @@ class Program
 {
     static void Main(string[] args)
     {
-         // Conceitos básicos
+        // Conceitos básicos
 
         // Tipos de Dados Primitivos
 
@@ -58,6 +58,8 @@ class Program
 
         // Classes e Objetos
 
+        // Exemplo de Declaração de uma Classe no inicio deste arquivo
+
         Pessoa p = new Pessoa(); // Criação do objeto
         //p.Nome = "Alice";
         p.Nome = nomes[0];
@@ -67,8 +69,6 @@ class Program
         p.Saudacao(); //Saída: Olá, meu nome é Alice e tenho 25 anos.
 
         // Entrada e Saída de Dados
-
-        // Definição da classe no inicio do arquivo
 
         // Entrada de Dados
         Console.WriteLine("Digite o seu nome:"); //Saida de dados
