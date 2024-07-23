@@ -1,13 +1,5 @@
 using CSharp;
 
-Gerente g = new()
-{
-    Nome = "João"
-};
-g.MostraNome();
-g.MostraFuncao();
-
-
 public abstract class AbsPessoa{
     public string? Nome { get; set; }
     public abstract void MostraNome();
