@@ -2,7 +2,6 @@ namespace CSharp;
 
 public class TiposDeDados{
 
-        // Conceitos básicos
         // Tipos de Dados Primitivos
 
         // Inteiros

@@ -1,12 +1,14 @@
 ﻿namespace CSharp;
 
 // Exemplo de Declaração de uma Classe
-public class Pessoa{
+public class Pessoa
+{
     public string? Nome { get; set; }
-    public int Idade  { get; set; }
+    public int Idade { get; set; }
 
     // Declaração do metodo Saudacao
-    public void Saudacao(){
+    public void Saudacao()
+    {
         Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
     }
 }
@@ -16,10 +18,14 @@ class Program
 {
     static void Main()
     {
+        ConceitosBasicos conceitos = new ConceitosBasicos();
         TiposDeDados tpDados = new TiposDeDados();
-        //tpDados.tiposDeDados();
         // Classes e Objetos
 
+        
+        
+
+        /*
         // Exemplo de Declaração de uma Classe no inicio deste arquivo
 
         Pessoa p = new Pessoa(); // Criação do objeto
@@ -41,7 +47,7 @@ class Program
         int idade;
         idade = int.Parse(Console.ReadLine());// Lê a entrada, converte para inteiro e armazena na variavel idade
 
-        Console.WriteLine("Olá, "+ nome + "! Você tem "+ idade + " anos."); //Saida de dados
+        Console.WriteLine("Olá, " + nome + "! Você tem " + idade + " anos."); //Saida de dados
 
 
         //Exemplo de classe Abstract Extends Abstract
@@ -53,6 +59,6 @@ class Program
         g.MostraFuncao();
 
 
-
+'*/
     }
 }
